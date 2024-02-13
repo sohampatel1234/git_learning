@@ -11,3 +11,4 @@ hello there
 hello
 
 hello from master branch
+only available into new_branch
